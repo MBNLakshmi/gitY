@@ -6,6 +6,12 @@ public class selenium {
   @Test
   public void testng() {
 		System.out.println("TestNG Project");
+		
+		System.out.println("TestNG Project");
+		System.out.println("TestNG Project");
+		System.out.println("TestNG Project");
+		System.out.println("TestNG Project");
+		
 	}
   @Test
   public void cucumber() {
